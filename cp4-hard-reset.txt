@@ -1,0 +1,12 @@
+## EXPLICACIÓN
+Los cambios staged y unstaged han sido eliminados completamente. El repositorio vuelve exactamente al último commit.
+
+Paso 1: estructura inicial del proyecto.
+Paso 2: añade módulo de login.
+Paso 3: refactoriza código de login.
+Paso 4: añade módulo de registro de usuarios.
+Paso 3: refactoriza código de login.
+Paso 4: añade módulo de registro de usuarios.
+
+## EXPLICACIÓN
+git reset --hard se considera una opción nuclear porque elimina cambios sin posibilidad de recuperación fácil.
