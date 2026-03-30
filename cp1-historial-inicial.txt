@@ -1,0 +1,6 @@
+281b201 (HEAD -> main) Paso 4: registro de usuarios
+8f23ba9 fix cosas
+dd416e3 Paso 2: módulo de login
+b44ad22 Paso 1: estructura inicial
+363f409 (origin/main, origin/HEAD) add deadline
+19e22b3 Initial commit

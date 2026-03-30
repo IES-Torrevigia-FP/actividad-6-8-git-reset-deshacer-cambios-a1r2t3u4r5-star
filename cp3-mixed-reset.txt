@@ -1,0 +1,21 @@
+Han desaparecido temporalmente los commits más recientes del historial (Paso 3 y Paso 4), pero sus cambios siguen en el working directory.
+
+
+En la rama main
+Tu rama está adelantada a 'origin/main' por 2 commits.
+  (usa "git push" para publicar tus commits locales)
+
+Cambios no rastreados para el commit:
+  (usa "git add <archivo>..." para actualizar lo que será confirmado)
+  (usa "git restore <archivo>..." para descartar los cambios en el directorio de trabajo)
+	modificados:     progreso.txt
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	cp1-historial-inicial.txt
+	cp2-soft-reset.txt
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")
+
+
+--soft mantiene los cambios en staging, mientras que --mixed los pasa a unstaged pero no los borra del disco.

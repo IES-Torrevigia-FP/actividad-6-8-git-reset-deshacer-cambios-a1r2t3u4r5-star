@@ -1,0 +1,23 @@
+En la rama main
+Tu rama está adelantada a 'origin/main' por 3 commits.
+  (usa "git push" para publicar tus commits locales)
+
+Cambios a ser confirmados:
+  (usa "git restore --staged <archivo>..." para sacar del área de stage)
+	modificados:     progreso.txt
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	cp1-historial-inicial.txt
+
+
+
+cbe0e0c (HEAD -> main) Paso 4: registro de usuarios (mejorado)
+c4f2aa4 fix cosas
+dd416e3 Paso 2: módulo de login
+b44ad22 Paso 1: estructura inicial
+363f409 (origin/main, origin/HEAD) add deadline
+19e22b3 Initial commit
+
+
+git reset --soft mueve HEAD al commit anterior pero mantiene los cambios en staging. No modifica ni el working directory ni el index, solo elimina el commit del historial.
